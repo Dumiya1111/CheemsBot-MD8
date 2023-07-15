@@ -5,8 +5,8 @@ const fs = require("fs")
 global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
-global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -32,10 +32,10 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.botname = "Cheems Bot MD V8"
 global.ownernumber = '94740849911'
 global.ownername = '🦄ʙᴏᴛ'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
+global.ownerNumber = ["94740849911@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.wagc = "https://chat.whatsapp.com/HY8xLzOtuMaLZk24H0Tabs"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
