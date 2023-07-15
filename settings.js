@@ -3,9 +3,9 @@ const fs = require("fs")
 
 //aumto presence update
 global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
-global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
+global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
 
 
@@ -21,17 +21,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94771901094'] //ur owner number
-global.ownernomer = "94771901094" //ur owner number2
-global.ownername = "🦄MR | DUMIYA" //ur owner name
-global.ytname = "YT: DUMIYA" //ur yt chanel name
+global.owner = ['94740849911'] //ur owner number
+global.ownernomer = "94740849911" //ur owner number2
+global.ownername = "🦄ʙᴏᴛ" //ur owner name
+global.ytname = "YT: ʙᴏᴛ" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "Cheems Bot MD V8"
-global.ownernumber = '94771901094'
-global.ownername = '🦄MR | DUMIYA'
+global.ownernumber = '94740849911'
+global.ownername = '🦄ʙᴏᴛ'
 global.ownerNumber = ["916909137213@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
